@@ -22,6 +22,7 @@ function generateMarkdown(data) {
 ### Description
 ${data.description}
 
+![Gif Demo](./gif.gif)
 ----
 ### Installation
 🔧${data.installation}
